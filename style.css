@@ -1,0 +1,19 @@
+h1, h2 {
+  color: #333;
+  text-align: center;
+}
+
+p {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+nav {
+  background-color: #eee;
+  padding: 10px;
+}
